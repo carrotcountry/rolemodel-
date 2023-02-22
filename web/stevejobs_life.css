@@ -1,0 +1,178 @@
+header{
+    text-align: center;
+    color:white;
+}
+
+#table_content{
+    color: white;
+    margin: 0px 10% ;
+}
+
+#table_one{
+    margin: 0 20%;
+}
+
+#first_header{
+    height: 150px;
+}
+
+.empty {
+    height: 50px;
+}
+
+#table_img{
+    height: 300px;
+    float: right;
+    width: 440px;
+    height: 400px;
+}
+
+td{
+    height:50px;
+    border:1px solid white;
+    text-align: center;
+}
+
+body{
+    line-height: 25px;
+}
+
+.inline{
+    display: inline;
+}
+
+body{
+    background-color: black;
+}
+
+#content {
+    float: right;
+    margin: 0 5%;
+    width: 300px;
+}
+
+#content div{
+    width: 150px;
+    text-decoration:none;
+    margin: 0 auto;
+    margin-top: 5%;
+    text-align: center;
+    height: 20px;  
+}
+
+#content .other_anchor{
+    width: 150px;
+    height: 50px;
+    text-decoration:none;
+    margin: 0 auto;
+    margin-top: 4%;
+    color: white;
+}
+
+#content a div:hover{
+    background-color: white;
+    color:black;
+    text-decoration:none;
+    
+}
+
+.first_p{
+    height: 30px;
+    width: 1100px;
+    color:white;
+}
+
+#main_article, .first_article, .second_article, .third_article{
+   width: 1108px;
+   color:white;
+   margin-left: 25px;
+}
+
+.first_article .img1 .steve_life{
+    float:left;
+    border-radius: 8px;
+    height:275px;
+}
+
+.img1{
+    float: left;
+    width: 223px;
+}
+
+.img2{
+    float: left;
+    width: 245px;
+}
+
+.img3{
+    float: left;
+    width: 210px;
+}
+
+.img4{
+    float: left;
+    width: 244px;
+    /* height: ; */
+}
+
+.img5{
+    float: left;
+    width: 240px;
+}
+
+
+.img6{
+    float: left;
+    width: 290px;
+}
+.next_jobs{
+    border-radius: 10px;
+    height: 300px;
+}
+
+.business_steve {
+    border-radius: 10px;
+    height: 270px;
+}
+
+.back_to_apple_steve {
+    border-radius: 10px;
+    height: 280px;
+}
+
+.ipod_steve{
+    border-radius: 10px;
+    height: 340px;
+}
+
+.iphone_steve{
+    border-radius: 10px;
+    height: 310px;
+}
+
+.ipad_steve{
+    border-radius: 10px;
+    height: 300px;
+}
+
+h2{
+    color:white;
+}
+
+#footerletter .footer_p {
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 0;
+ }
+ footer {
+    width: 100%;
+    height: 40px;
+    bottom: 20px;
+    left: 0;
+ }
+ 
+a{
+    color:white;
+    text-decoration: none;
+}

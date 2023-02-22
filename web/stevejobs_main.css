@@ -1,0 +1,99 @@
+#heading1, #heading2{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    margin: 0 auto;
+    width: 960px;
+    position: relative;
+}
+
+#menu:hover{
+    background-color:black;
+    color:white;
+    /* width: 200px; */
+}
+
+.pic1 .pic2{
+    width: 1000px; height: 450px;
+    border: 3px solid black;
+    border-radius: 30px;
+    overflow-y: scroll;
+    /* right: 170px; */
+    /* position: relative; */
+}
+
+img {
+    border-radius: 30px;
+    margin: 0 auto;
+}
+
+.empty{
+    height: 10px;
+}
+
+body > nav{
+    color: white;
+    text-align: center;
+    height:30px;
+    width: 1020px;
+    margin: 0 auto;
+}
+
+nav div{                 
+    display: inline-block;
+    text-decoration:none;
+    width: 200px;
+    font-family:"Trebuchet MS", Dotum, Arial;
+    font-size:20px;
+    font-weight:bold;      
+    cursor: pointer;
+    color:black;
+    height: 25px;
+ }
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
+img{
+    margin:0 auto;
+}
+.pic1 .pic2 img:nth-child(1){
+    width: 1000px;
+    height: 450px;
+}
+
+.pic1 .pic2 img:nth-child(2){
+    display:inline;
+    width: 340px;
+    height: 450px;
+}
+
+
+.pic1 .pic2 img:nth-child(3){
+    display:inline;
+    width: 650px;
+    height: 450px;
+} 
+
+.pic1 .pic2 img:nth-child(4){
+    height: 450px;
+    width: 1000px;
+}
+
+
+.pic1 .pic2 img:nth-child(5){
+    width: 1000px;
+    height: 450px;
+}
+
+.pic1 .pic2 img:nth-child(6){
+    width: 1000px;
+    height: 450px;
+}
+
+#last{
+    margin-top:20px;
+}

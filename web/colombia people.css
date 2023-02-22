@@ -1,0 +1,83 @@
+#head{
+   color: white;    
+   text-decoration:none;
+   text-align: center;
+}
+
+body{
+   background-color: black;
+}
+
+#heading{
+   width:300px;
+   margin:0 auto;          
+   font-family:"Trebuchet MS", Dotum, Arial;
+}
+
+.firstnav{
+   /* margin: 40px auto; */
+   width: 950px;
+   height: 344px;
+   position: absolute;
+   left:50%;
+   top: 50%;
+   margin-left: -475px;
+   margin-top: -190px;
+}
+
+.menuLink1:hover, .menuLink2:hover, .menuLink3:hover, .menuLink4:hover, .menuLink5:hover,.menuLink6:hover {     
+   color: black;                                  
+   background-color: white;  
+} 
+
+.menuLink1, .menuLink3, .menuLink5 {
+   margin-top: 25px;
+   margin-bottom:30px;
+   border-radius: 10px;
+}
+
+.menuLink2, .menuLink4, .menuLink6 {
+   margin-top:25px;
+   margin-bottom: 30px;
+   border-radius: 10px;
+}
+
+.firstnav div {
+   display: inline-block;
+   width: 300px;
+   color:white;
+}
+
+img{
+   border-radius: 10px;
+}    
+
+
+h3{
+   color: white;
+   text-align: center;
+}
+
+
+.firstnav {
+    text-align: center;
+}
+
+.menu{
+   text-decoration:none;
+   color:white;
+}
+
+#footerletter .footer_p {
+   color: white;
+   margin-top: 10px;
+   text-align: center;
+   margin-bottom: 0;
+}
+footer {
+   width: 100%;
+   position: fixed;
+   height: 40px;
+   bottom: 20px;
+   left: 0;
+}

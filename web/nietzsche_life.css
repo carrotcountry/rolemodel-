@@ -1,0 +1,195 @@
+
+
+
+#info_content {
+    /* text-align: center; */
+    width: 700px;
+    /* height: 500px;   */
+    color: white;
+    border-color: white;
+    /* margin: 0 auto; */
+}
+
+#table_content{
+    margin: 0px 350px ;
+}
+
+#table_one{
+    /* width: 800px; */
+    text-align: center;
+    /* margin: 0 30%; */
+}
+
+
+#first_header{
+    height: 150px;
+}
+
+
+
+#info_content2 {
+    /* float: left; */
+    color: white;
+    height: 50px;
+}
+
+#table_img{
+    float: right;
+    width: 370px;
+    height: 420px;
+}
+
+td{
+    /* border-radius: 5px; */
+    height:50px;
+    border:1px solid white;
+    text-align: center;
+}
+
+.inline{
+    display: inline;
+}
+
+.info{
+    float:right;
+}
+body{
+    background-color: black;
+    
+}
+
+
+header{
+    text-align: center;
+    color:white;
+}
+
+.info{
+    right:90px;
+    color:white;
+
+}
+
+#content {
+    border-radius: solid white 3px;
+    float: right;
+    color:black;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    text-decoration:none;
+}
+
+#content div{
+    width: 150px;
+    height: 25px;
+    text-decoration:none;
+    margin: 0 auto;
+}
+
+#content .other_anchor{
+    width: 150px;
+    height: 45px;
+    text-decoration:none;
+    margin: 0 auto;
+}
+
+#content a .other_anchor{
+    margin-top: 4%;
+    color: white;
+    text-decoration:none;
+    text-align: center;
+}
+
+#content a div:hover{
+    background-color: white;
+    color:black;
+    text-decoration:none;
+
+}
+
+#content a{
+    text-decoration:none;
+}
+
+
+
+#content a div {
+    margin-top: 5%;
+    color: white;
+    text-decoration:none;
+    text-align: center;
+    position: relative
+}
+
+.first_p{
+    height: 30px;
+    width: 1100px;
+    color:white;
+}
+
+.article .img1  #young_nietzsche{
+    float:left;
+    border-radius: 8px;
+    height:285px;
+}
+
+.img1{
+    float: left;
+    width: 210px;
+}
+
+.img2{
+    float: left;
+    width: 165px;
+}
+
+.img3{
+    float: left;
+    width: 320px;
+    height: 205px;
+}
+
+.end_ne{
+    border-radius: 10px;
+    height: 210px;
+    width: 310px;
+}
+
+#univ_ne{
+    float:left;
+    border-radius: 8px;
+    height:230px;
+}
+
+h2{
+    color:white;
+}
+#main_article{
+    margin-left: 30px;
+}
+.article{
+   width: 1103px;
+   color:white;
+}
+
+#footerletter .footer_p {
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 0;
+ }
+ footer {
+    width: 100%;
+    height: 40px;
+    bottom: 20px;
+    left: 0;
+ }
+
+body{
+    line-height: 25px;
+}
+
+a{
+    color: white;
+}

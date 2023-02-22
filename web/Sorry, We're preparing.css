@@ -1,0 +1,18 @@
+body{
+    background-color:black;
+    color:white;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    height: 640px;
+}
+
+#divsorry{
+    cursor: no-drop;
+    height: 600px;
+    width: 600px;
+}
+
+#no{
+    cursor: no-drop;
+}
